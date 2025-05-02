@@ -62,6 +62,7 @@ I am continuously learning and upgrading my skill set by diving deeper into:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](lokesh-kapgate-lk01)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lokesh-kapgate-lk01)
+
 
 Thanks for stopping by and checking out my profile. Happy coding!
